@@ -3,7 +3,7 @@
   "title": "FFG Star Wars Adversaries",
   "description": "<p>Enjoy these adversaries! Every single adversary from the books included. Original at http://swa.stoogoff.com/</p>",
   "version": "1.0.0",
-  "minimumCoreVersion": "9.269",
+  "minimumCoreVersion": "9.280",
   "compatibleCoreVersion": "9.280",
   "author": "nlx3647",
   "packs": [
@@ -15,6 +15,6 @@
     }
   ],
   "url": "https://www.github.com/nlx3647/ffg-swa",
-  "manifest": "https://github.com/nlx3647/ffg-swa/module.json",
-  "download": "https://github.com/nlx3647/ffg-swa/swa-1.0.0.zip"
+  "manifest": "https://raw.githubusercontent.com/nlx3647/ffg-swa/main/module.json",
+  "download": "https://github.com/nlx3647/ffg-swa/releases/download/1.0.0/ffg-swa-1.0.0.zip"
 }
