@@ -12,6 +12,7 @@
       "label": "Star Wars Adversaries",
       "path": "/packs/swa.db",
       "type": "Actor"
+      "system": "starwarsffg",
     }
   ],
   "url": "https://www.github.com/nlx3647/ffg-swa",
