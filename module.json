@@ -5,7 +5,16 @@
   "version": "1.0.0",
   "minimumCoreVersion": "9.280",
   "compatibleCoreVersion": "9.280",
-  "author": "nlx3647",
+  "compatibility": {
+    "minimum": "9.280",
+    "verified": "9"
+  },
+  "authors": [
+    {
+            "name": "nlx3647",
+            "github": "nlx3647"
+    }
+  ],
   "packs": [
     {
       "name": "adversaries",
