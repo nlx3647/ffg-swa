@@ -15,6 +15,13 @@
       "github": "nlx3647"
     }
   ],
+  "dependencies": [
+    {
+        "name": "starwarsffg",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json"
+    }
+  ],
   "packs": [
     {
       "name": "adversaries",
