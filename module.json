@@ -2,7 +2,7 @@
   "name": "ffg-swa",
   "title": "FFG Star Wars Adversaries",
   "description": "<p>Enjoy these adversaries! Every single adversary from the books included. Original at http://swa.stoogoff.com/</p>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "9.280",
   "compatibleCoreVersion": "9.280",
   "compatibility": {
