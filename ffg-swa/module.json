@@ -1,0 +1,40 @@
+{
+  "title": "FFG Star Wars Adversaries",
+  "description": "<p>Enjoy these adversaries! Every single adversary from the books included. Original at http://swa.stoogoff.com/</p>",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "9.280",
+    "verified": "9"
+  },
+  "authors": [
+    {
+      "name": "nlx3647",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "starwarsffg",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "adversaries",
+      "label": "Star Wars Adversaries",
+      "path": "/packs/swa.db",
+      "type": "Actor",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "url": "https://www.github.com/nlx3647/ffg-swa",
+  "manifest": "https://github.com/nlx3647/ffg-swa/releases/latest/download/module.json",
+  "download": "https://github.com/nlx3647/ffg-swa/releases/latest/download/ffg-swa.zip",
+  "id": "ffg-swa"
+}
